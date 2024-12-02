@@ -28,7 +28,7 @@ func main() {
 	fmt.Println(myfourthint)
 	var a, b, c, d int = 1, 3, 5, 7
 	fmt.Println(a + b + c + d)
-	var e, f = 10, "pidgeons"
+	var e, f = 10, "pigeons"
 	fmt.Println(e, f)
 	var (
 		g int
